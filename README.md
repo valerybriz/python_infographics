@@ -16,7 +16,7 @@ Instagram profile: https://www.instagram.com/inkpantherdesign
 Twitter profile: https://twitter.com/inkpanther2  
 **open to comissions please get in touch by email** 
 ### Concepts:
-Valery Briz
+Valery Briz  
 email: valerybriz@pyladies.com  
 twitter profile: https://twitter.com/valerybriz  
   
