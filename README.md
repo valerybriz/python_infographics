@@ -4,7 +4,7 @@ Currently available in Spanish and English
   
 In this repo you can find each infographic in PDF and PNG formats.  
 
-![What is the PSF?](https://github.com/valerybriz/python_infographics/english/what_is_the_psf.png)
+![What is the PSF?](https://raw.githubusercontent.com/valerybriz/python_infographics/main/english/what_is_the_psf/what_is_the_psf.png)
 
 The illustrations are based on the concepts of oficial sites like: [python.org](https://python.org), [pyladies.com](https://pyladies.com) and also the python community opinions and experiences by interviews and our own experience in events.
 
