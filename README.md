@@ -17,7 +17,10 @@ Twitter profile: https://twitter.com/inkpanther2
 **open to comissions please get in touch by email** 
 ### Concepts:
 Valery Briz
-twitter profile: https://twitter.com/valerybriz
+email: valerybriz@pyladies.com  
+twitter profile: https://twitter.com/valerybriz  
+  
+Would you like to contribute making the translations to other languages? soon we will have the guidelines, for now you can make an issue and we'll get in touch to let you know how we can colaborate tougether! Thanks!  
   
   
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>  
