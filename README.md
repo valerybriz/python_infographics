@@ -1,6 +1,6 @@
 # python_infographics
-A series of infographics to explain the psf, pyladies and other python community organizations and how it works
-Currently available in Spanish and English
+A series of infographics to explain the psf, pyladies and other python community organizations and how it works.  
+**Currently available in Spanish and English**
   
 In this repo you can find each infographic in PDF and PNG formats.  
 
