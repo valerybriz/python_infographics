@@ -8,7 +8,7 @@ In this repo you can find each infographic in PDF and PNG formats.
 
 The illustrations are based on the concepts of oficial sites like: [python.org](https://python.org), [pyladies.com](https://pyladies.com) and also the python community opinions and experiences by interviews and our own experience in events.
 
-## About the authors  
+## About the contributors 
 ### Illustrations:  
 Adriana Sanchez  
 email: ink.panther.design@gmail.com  
@@ -19,6 +19,8 @@ Twitter profile: https://twitter.com/inkpanther2
 Valery Briz  
 email: valerybriz@pyladies.com  
 twitter profile: https://twitter.com/valerybriz  
+### Portuguese translations:
+Debora Azevedo
   
 Would you like to contribute making the translations to other languages? soon we will have the guidelines, for now you can make an issue and we'll get in touch to let you know how we can colaborate tougether! Thanks!  
   
